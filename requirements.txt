@@ -1,0 +1,4 @@
+langchain
+mlflow
+ragas
+unstructured[all-docs]

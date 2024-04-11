@@ -5,5 +5,7 @@ black
 black[jupyter]
 isort
 docformatter
+pre-commit
 pytest
 pytest-cov
+jupyter
