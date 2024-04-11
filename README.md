@@ -1,1 +1,1 @@
-# DS4A
+# Advanced Retrieval Methods for RAG
