@@ -2,3 +2,5 @@ langchain
 mlflow
 ragas
 unstructured[all-docs]
+langchain_experimental
+gpt4all
